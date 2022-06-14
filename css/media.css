@@ -418,6 +418,11 @@
     line-height: 17px;
     margin-bottom: 15px;
 }
+.location-descr {
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 13px;
+}
 }
 
 /* Small Devices, Tablets */
